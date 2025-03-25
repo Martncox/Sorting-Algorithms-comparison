@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\sorting algo331\c\selectionc++\selectionc++\Source.cpp(56,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\sorting algo331\c\selectionc++\selectionc++\Source.cpp(74,23): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\sorting algo331\c\selectionc++\selectionc++\Source.cpp(74,23): warning C4244:         with
+C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\sorting algo331\c\selectionc++\selectionc++\Source.cpp(74,23): warning C4244:         [
+C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\sorting algo331\c\selectionc++\selectionc++\Source.cpp(74,23): warning C4244:             _Rep=__int64
+C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\sorting algo331\c\selectionc++\selectionc++\Source.cpp(74,23): warning C4244:         ]
+  selectionc++.vcxproj -> C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\sorting algo331\c\selectionc++\x64\Debug\selectionc++.exe

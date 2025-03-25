@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mart\\OneDrive - University of Alaska\\Documents\\csce\\sorting algo331\\c\\selectionc\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD52C43C-7BD6-4A80-9896-B4D2C6FE6F87}|selectionc\u002B\u002B\\selectionc\u002B\u002B.vcxproj|C:\\Users\\Mart\\OneDrive - University of Alaska\\Documents\\csce\\sorting algo331\\c\\selectionc\u002B\u002B\\selectionc\u002B\u002B\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD52C43C-7BD6-4A80-9896-B4D2C6FE6F87}|selectionc\u002B\u002B\\selectionc\u002B\u002B.vcxproj|solutionrelative:selectionc\u002B\u002B\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Mart\\OneDrive - University of Alaska\\Documents\\csce\\sorting algo331\\c\\selectionc\u002B\u002B\\selectionc\u002B\u002B\\Source.cpp",
+              "RelativeDocumentMoniker": "selectionc\u002B\u002B\\Source.cpp",
+              "ToolTip": "C:\\Users\\Mart\\OneDrive - University of Alaska\\Documents\\csce\\sorting algo331\\c\\selectionc\u002B\u002B\\selectionc\u002B\u002B\\Source.cpp",
+              "RelativeToolTip": "selectionc\u002B\u002B\\Source.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T01:05:38.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

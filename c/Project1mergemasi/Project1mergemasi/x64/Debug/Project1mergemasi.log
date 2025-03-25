@@ -1,0 +1,9 @@
+﻿  mergeSort.cpp
+C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\langcon\Project1mergemasi\Project1mergemasi\mergeSort.cpp(67,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\langcon\Project1mergemasi\Project1mergemasi\mergeSort.cpp(98,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\langcon\Project1mergemasi\Project1mergemasi\mergeSort.cpp(122,23): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\langcon\Project1mergemasi\Project1mergemasi\mergeSort.cpp(122,23): warning C4244:         with
+C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\langcon\Project1mergemasi\Project1mergemasi\mergeSort.cpp(122,23): warning C4244:         [
+C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\langcon\Project1mergemasi\Project1mergemasi\mergeSort.cpp(122,23): warning C4244:             _Rep=__int64
+C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\langcon\Project1mergemasi\Project1mergemasi\mergeSort.cpp(122,23): warning C4244:         ]
+  Project1mergemasi.vcxproj -> C:\Users\Mart\OneDrive - University of Alaska\Documents\csce\langcon\Project1mergemasi\x64\Debug\Project1mergemasi.exe
